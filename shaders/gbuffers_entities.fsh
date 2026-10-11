@@ -5,7 +5,8 @@ uniform sampler2D gtexture;
 uniform vec4 entityColor;
 
 uniform float alphaTestRef = 0.1;
-
+uniform sampler2D gtexture; // the texture atlas for the entity
+uniform vec4 entityColor; // a tint to apply to the entity. This is used for e.g. the color of sheep's wool!
 in vec2 lmcoord;
 in vec2 texcoord;
 in vec4 glcolor;
