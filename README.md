@@ -1,4 +1,4 @@
-Welcome! This is a template for developing a 1.21.5 Minecraft shader with Iris. All shader files are in the `shaders` folder. They currently don't do anything special.
+Welcome! This is a template for developing a 1.21.11 Minecraft shader with Iris. All shader files are in the `shaders` folder. They currently don't do anything special.
 
 From the terminal, you can run:
 - `gradlew runShaderClient` to launch the client with Iris with your shaderpack automatically applied
