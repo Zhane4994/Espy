@@ -12,3 +12,7 @@ This shader has quite a few features, including:
 <img width="1470" height="956" alt="MCPHOTO" src="https://github.com/user-attachments/assets/ea657ae2-fba6-4504-9514-7b3eec137f62" />
 <img width="1470" height="956" alt="MCPHOTO1" src="https://github.com/user-attachments/assets/be656544-77f5-41d6-b627-9e62ff079879" />
 <img width="1470" height="956" alt="MCPHOTO2" src="https://github.com/user-attachments/assets/225696b1-74af-4566-99a5-a64863cf68f9" />
+
+# Downloads
+[Download the ZIP file on Modrinth](https://modrinth.com/shader/espy)
+[Download the ZIP file on CurseForge](https://www.curseforge.com/minecraft/shaders/espy)
